@@ -33,6 +33,4 @@ See [HISTORY.md](HISTORY.md).
 
 ## License
 
-AGPL-3.0.
-
-See [LICENSE.txt](LICENSE.txt).
+[MIT](LICENSE.txt).
