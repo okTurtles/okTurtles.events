@@ -1,6 +1,6 @@
 {
   "name": "@sbp/okturtles.events",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Event handling for SBP",
   "main": "dist/main.cjs",
   "type": "module",
@@ -16,7 +16,7 @@
     "lint": "eslint",
     "clean": "rm -f dist/*"
   },
-  "browserslist": "> 0.25% and not dead",
+  "browserslist": "> 0.25% and not dead and since 2020",
   "author": "Greg Slepak",
   "license": "MIT",
   "eslintConfig": {
