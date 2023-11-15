@@ -1,5 +1,9 @@
 # History
 
+#### 0.1.6
+
+- `okTurtles.events/once` now returns the callback it actually registers so that you can use it with `okTurtles.events/off`
+
 #### 0.1.5
 
 - SBP 2.2.0 package listed as peerDep

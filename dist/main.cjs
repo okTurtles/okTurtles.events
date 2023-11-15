@@ -26,6 +26,7 @@ var _default = (0, _sbp.default)('sbp/selectors/register', {
     };
 
     (0, _sbp.default)('okTurtles.events/on', event, cbWithOff);
+    return cbWithOff;
   },
   'okTurtles.events/emit': function (event) {
     for (var _len = arguments.length, data = new Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {

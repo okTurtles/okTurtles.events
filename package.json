@@ -1,6 +1,6 @@
 {
   "name": "@sbp/okturtles.events",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Event handling for SBP",
   "main": "dist/main.cjs",
   "type": "module",
