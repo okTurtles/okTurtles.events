@@ -2,6 +2,9 @@
 
 "use strict";
 
+// =======================
+// Domain: Event publish/subscribe
+// =======================
 import sbp from "@sbp/sbp";
 import "@sbp/okturtles.data";
 
@@ -43,6 +46,7 @@ const domain: SBPDomain = sbp("sbp/selectors/register", {
       listener(...data);
     }
   },
+  // almost identical to Vue.prototype.$off, except we require `event` argument
 
   "okTurtles.events/off": function (
     event: string,
