@@ -1,7 +1,7 @@
 {
   "name": "@sbp/okturtles.events",
-  "version": "0.2.0",
-  "description": "Event handling for SBP",
+  "version": "1.0.0",
+  "description": "SBP-friendly event handling.",
   "main": "./dist/umd/index.cjs",
   "type": "module",
   "exports": {
