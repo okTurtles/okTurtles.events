@@ -62,4 +62,3 @@ describe("[SBP] EVENTS domain", () => {
     assert.equal(testListener.mock.callCount(), 0);
   });
 });
-// Temporary comment to force change detection
