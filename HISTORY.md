@@ -1,5 +1,9 @@
 # History
 
+#### 1.0.1
+
+- Add `"types"` field to `package.json`
+
 #### 1.0.0
 
 ⚠️ **Breaking Changes!** ⚠️
